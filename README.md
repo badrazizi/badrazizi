@@ -53,10 +53,16 @@
 <br />
 <br />
 
+---
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [خائف من المساهمة؟ هل تشعر أنك تفتقر إلى المهارات؟](https://dev.to/badrazizi/-2ggl)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true)
 
 [twitter]: https://twitter.com/BadrAzizi
 [instagram]: https://instagram.com/BadrAzizi
