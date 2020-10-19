@@ -53,6 +53,10 @@
 <br />
 <br />
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [twitter]: https://twitter.com/BadrAzizi
 [instagram]: https://instagram.com/BadrAzizi
 [facebook]: https://facebook.com/BadrAzizi
