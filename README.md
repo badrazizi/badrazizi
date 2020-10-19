@@ -57,6 +57,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [خمسة مفاهيم أساسية للتعلم عن البرمجة](https://dev.to/badrazizi/-3oo5)
 - [لماذا هندسة البرمجيات؟](https://dev.to/badrazizi/-45o6)
 - [خائف من المساهمة؟ هل تشعر أنك تفتقر إلى المهارات؟](https://dev.to/badrazizi/-2ggl)
 <!-- BLOG-POST-LIST:END -->
