@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Golang🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: writing first Golang tool
+- 🥅 Next goal: writing my next project in Golang
 
 ### Connect with me:
 
