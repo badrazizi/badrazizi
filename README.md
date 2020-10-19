@@ -1,4 +1,3 @@
-<div dir="rtl">
 
 ### Hi there, I'm Badr 👋
 
@@ -8,7 +7,7 @@
 
 - 🌱 I’m currently learning Golang🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: writing vert.x like in Golang using [gnet](https://github.com/panjf2000/gnet) or [gev](https://github.com/Allenxuxu/gev), also stadying CCNA
+- 🥅 2020 Goals: writing first Golang tool
 
 ### Connect with me:
 
@@ -54,8 +53,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[facebook]: https://linkedin.com/in/codeSTACKr
-
-</div>
+[twitter]: https://twitter.com/BadrAzizi
+[instagram]: https://instagram.com/BadrAzizi
+[facebook]: https://facebook.com/BadrAzizi
