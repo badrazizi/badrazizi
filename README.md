@@ -62,7 +62,7 @@
 
 ---
 
-![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true)
+![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true)
 
 [twitter]: https://twitter.com/BadrAzizi
 [instagram]: https://instagram.com/BadrAzizi
