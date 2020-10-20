@@ -1,4 +1,5 @@
 
+
 ### Hi there, I'm Badr 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/badrazizi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbadrazizi&screen_name=badrazizi)
@@ -55,7 +56,14 @@
 
 ---
 
-### Blog posts
+### :zap: Recent GitHub Activity
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+###   📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [خمسة مفاهيم أساسية للتعلم عن البرمجة](https://dev.to/badrazizi/-3oo5)
 - [لماذا هندسة البرمجيات؟](https://dev.to/badrazizi/-45o6)
@@ -64,7 +72,10 @@
 
 ---
 
-![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true)
+![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true&count_private=true)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrazizi)]()
 
 [twitter]: https://twitter.com/BadrAzizi
 [instagram]: https://instagram.com/BadrAzizi
