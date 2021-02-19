@@ -63,7 +63,7 @@
 2. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
 3. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
 4. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-5. ❗️ Opened issue [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
+5. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
 <!--END_SECTION:activity-->
 
 ---
