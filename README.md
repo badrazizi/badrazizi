@@ -6,14 +6,13 @@
 
 ## I'm a Developer, and Student !!
 
-- 🌱 I’m currently learning Golang🤣
+- 🌱 I’m currently learning rust🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Next goal: writing my next project in Golang
+- 🥅 Next goal: writing my next project in rust (using actix-web framework)
 
 ### Connect with me:
 
 [<img align="c" alt="badrazizi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="badrazizi| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="badrazizi| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -24,6 +23,8 @@
 <img align="left" alt="Eclipse Vert.x" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vertx/vertx.png" />
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 
