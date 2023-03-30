@@ -78,7 +78,7 @@
 
 ---
 
-![Badr's github stats-Dark](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true&count_private=true) [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=badrazizi)]()
+![Badr's github stats-Dark](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true&count_private=true#gh-dark-mode-only) [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=badrazizi#gh-dark-mode-only)]()
 
 [twitter]: https://twitter.com/BadrAzizi
 [instagram]: https://instagram.com/BadrAzizi
