@@ -10,11 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Next goal: writing my next project in rust (using actix-web framework)
 
-### Connect with me:
-
-[<img align="c" alt="badrazizi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="badrazizi| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
