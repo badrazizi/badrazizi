@@ -44,6 +44,7 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
+</br>
 ---
 
 ![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrazizi&theme=dark#gh-dark-mode-only)]()
