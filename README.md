@@ -44,30 +44,6 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
----
-
-### :zap: Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-2. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-3. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-4. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-5. 🗣 Commented on [#8586](https://github.com/google/ExoPlayer/issues/8586) in [google/ExoPlayer](https://github.com/google/ExoPlayer)
-<!--END_SECTION:activity-->
-
----
-
-###   📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [خمسة مفاهيم أساسية للتعلم عن البرمجة](https://dev.to/badrazizi/-3oo5)
-- [لماذا هندسة البرمجيات؟](https://dev.to/badrazizi/-45o6)
-- [خائف من المساهمة؟ هل تشعر أنك تفتقر إلى المهارات؟](https://dev.to/badrazizi/-2ggl)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ![Badr's github stats](https://github-readme-stats.vercel.app/api?username=badrazizi&show_icons=true&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrazizi&theme=dark#gh-dark-mode-only)]()
