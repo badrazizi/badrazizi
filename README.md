@@ -1,14 +1,4 @@
 
-
-### Hi there, I'm Badr 👋
-
-## I'm a Developer !!
-
-- 🌱 I’m currently learning rust🤣
-- 👯 I’m looking to collaborate with other content creators
-
-<br />
-
 ### Languages and Tools:
 
 
